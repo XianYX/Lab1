@@ -1,2 +1,10 @@
 this is a test file in lab1
 this is the second
+
+ahhh,now I am in the labtest2.txt
+of course I will change this file
+but I will not tell you what I want to change
+that's all
+
+you say test1?
+I lied to you~
