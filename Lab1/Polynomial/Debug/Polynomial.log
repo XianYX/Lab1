@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(26): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(50): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(67): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(153): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(165): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(171): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\不讲道理\desktop\polynomial\polynomial\wordtag.h(193): warning C4018: “<”: 有符号/无符号不匹配
+  Polynomial.vcxproj -> C:\Users\不讲道理\Desktop\Polynomial\Debug\Polynomial.exe
+  Polynomial.vcxproj -> C:\Users\不讲道理\Desktop\Polynomial\Debug\Polynomial.pdb (Partial PDB)
