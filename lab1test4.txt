@@ -1,8 +1,5 @@
 this is a test file in lab1
 this is the forth
 
-changes on the branch B1
+to clear the conflict for branch 1140320218
 
-changes on branch C4
-
-to clear the conflict
