@@ -6,6 +6,8 @@
 #include <cctype>
 #include "polynomial.h"
 
+/*当前注释最为实验三的修改测试*/
+
 using namespace std;
 
 vector <string> a;   //单项式

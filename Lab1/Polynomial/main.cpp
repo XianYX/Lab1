@@ -6,6 +6,8 @@
 #include "polynomial.h"
 #include "WordTag.h"
 
+/*当前注释作为实验三的修改测试*/
+
 using namespace std;
 int main()
 {
